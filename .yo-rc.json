@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "hellworld",
+    "libraryId": "e40228bd-aa83-40ca-8964-c46ebd0963b3",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "hellworld",
+    "solutionShortDescription": "hellworld description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
